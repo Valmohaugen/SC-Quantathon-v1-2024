@@ -1,6 +1,6 @@
 # SC Quantathon v1 2024: DoraHacks Challenge
  
-This repository is the home for the SC Quantathon v1 2024 DoraHacks challenge, a quantum data-generation and simulation benchmarking workflow for producing large-scale qubit datasets across multiple simulation methods, with post-processing, analysis, and a structured, extensible pipeline.
+This repository is the home for the SC Quantathon v1 2024 DoraHacks challenge, a quantum random number generator and simulation benchmarking workflow for producing large-scale qubit datasets across multiple simulation methods, with post-processing, analysis, and a structured, extensible pipeline.
  
  ## Features
  
