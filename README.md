@@ -1,6 +1,6 @@
- # SC-Quantathon-v1-2024: Quantum Simulation & Analysis Toolkit
+# SC Quantathon v1 2024: DoraHacks Challenge
  
- Welcome to the SC-Quantathon-v1-2024 repository—a collection of scripts, datasets, and tools for simulating, processing, and analyzing quantum systems at scale. This project is designed to support rapid experimentation, benchmarking, and post-processing of quantum simulation data, with a focus on modularity and extensibility.
+This repository is the home for the SC Quantathon v1 2024 DoraHacks challenge, a quantum data-generation and simulation benchmarking workflow for producing large-scale qubit datasets across multiple simulation methods, with post-processing, analysis, and a structured, extensible pipeline.
  
  ## Features
  
@@ -14,8 +14,8 @@
  
  1. **Clone the repository:**
 	 ```bash
-	 git clone https://github.com/shquan04/SC-Quantathon-2024.git
-	 cd SC-Quantathon-2024
+	 git clone https://github.com/Valmohaugen/SC-Quantathon-v1-2024.git
+	 cd SC-Quantathon-v1-2024
 	 ```
  2. **Generate or access datasets:**
 	 - Use scripts in `MiniGrant/DataGeneration/` (e.g., `DataGeneration.py`, `binary_string_to_binary.py`) to create new datasets or transform existing ones.
@@ -26,7 +26,7 @@
  4. **Benchmark and compare:**
 	 - Review results across different simulation methods and qubit sizes. Use the organized folder structure (`Stage1` to `Stage5`) to track progress and compare approaches.
  5. **Requirements:**
-	 - Ensure you have Python 3.x installed. Most scripts require standard libraries (e.g., `numpy`, `pandas`). Install any additional dependencies as needed.
+	 - Ensure you have Python 3.10+ installed. Most scripts require standard libraries (e.g., `numpy`, `pandas`). Install any additional dependencies as needed.
  
  ## Results
  
@@ -38,6 +38,6 @@
  - Organize and standardize results for collaborative research and further experimentation.
  
  **Dependencies:**
- - Python 3.x
+ - Python 3.10+
  - Standard scientific libraries (`numpy`, `pandas`)
  - Additional packages as required by specific scripts (see script headers or requirements)
